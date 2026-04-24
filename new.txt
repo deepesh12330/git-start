@@ -1,3 +1,7 @@
 print("this is new branch jethalal")
+<<<<<<< HEAD
 hello sir
 this is new change
+=======
+hello sir
+>>>>>>> 549184833d85ecddc25584b117177b78358d5ad4
