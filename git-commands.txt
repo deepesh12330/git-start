@@ -28,3 +28,27 @@ git add testing.py
  git remote -v
  git push origin master
  hitsory
+
+i write to code github and i want to change local
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
