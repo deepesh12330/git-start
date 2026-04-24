@@ -7,3 +7,24 @@ git remote remove origin
 git push origin master
 git pull ogigin master
 git remote set-url ogigin https://
+
+
+python testing.py
+ cat git-commands.txt
+ python git-commands.txt
+ clear
+ git init
+ git status
+ git add git-commands.txt
+ git status
+git add testing.py
+ git status
+ git commit -m "added files"
+ git status
+ git remote add origin https://github.com/deepesh12330/git-start.git
+ git status
+ git remote -v
+ git remote set-url origin https://deepesh12330/git-start.git
+ git remote -v
+ git push origin master
+ hitsory
